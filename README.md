@@ -1,6 +1,6 @@
 # zkSync Era Circuit Bug Exploit PoC
 
-This repo contains a proof-of-concept exploit for a soundness bug in the zkSync Era VM circuits found by ChainLight. For more details on the bug, check out the [full write-up](TODO).
+This repo contains a proof-of-concept exploit for a soundness bug in the zkSync Era VM circuits found by ChainLight. For more details on the bug, check out the [full write-up](https://blog.chainlight.io/uncovering-a-zk-evm-soundness-bug-in-zksync-era-f3bc1b2a66d8).
 
 ## Running the PoC
 
